@@ -1,67 +1,266 @@
-### Oh hello there, 
-I'm Daniel from Nuernberg, Germany, also known as Madd Eye in the internet 🌐. I love to learn new stuff and technologies.
+<h1>Oh hello there, 👋</h1>
 
-![](https://img.shields.io/badge/OS-Windows-lightgrey?style=flat&logo=Windows)
-![](https://img.shields.io/badge/Editor-VS_CODE-lightgrey?style=flat&logo=Visual-Studio-Code)
-![](https://img.shields.io/badge/Shell-ZSH-lightgrey?style=flat&logo=GNU-Bash)
-![](https://img.shields.io/badge/Cloud-AWS-lightgrey?style=flat&logo=amazon-aws)
-![](https://img.shields.io/badge/WSL_Version-2-lightgrey?style=flat&logo=GNU-bash&logoColor=lightgrey)
-![](https://img.shields.io/badge/WSL_OS-Ubuntu-lightgrey?style=flat&logo=Ubuntu)
+I'm Daniel from Germany, also known as Madd Eye in the internet 🌐. I love to learn new stuff and technologies.
 
-### Languages 🖥️
+<h3>Technologies I Use</h3>
+<div align="center">
 
-- Know/Using
+![](https://img.shields.io/badge/OS-Windows-0078D7?style=for-the-badge&logo=Windows&logoColor=white)
+![](https://img.shields.io/badge/Editor-VS_CODE-0078D7?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+![](https://img.shields.io/badge/Shell-ZSH-0078D7?style=for-the-badge&logo=GNU-Bash&logoColor=white)
+![](https://img.shields.io/badge/Cloud-AWS-0078D7?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![](https://img.shields.io/badge/WSL_Version-2-0078D7?style=for-the-badge&logo=GNU-bash&logoColor=white)
+![](https://img.shields.io/badge/WSL_OS-Ubuntu-0078D7?style=for-the-badge&logo=Ubuntu&logoColor=white)
 
-| [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://www.python.org/)  | [<img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://html.spec.whatwg.org/)  | [<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://developer.mozilla.org/en-US/docs/Web/Css)  | [<img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />](https://golang.org/)  | [<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  | [<img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />](https://www.typescriptlang.org/)  | [<img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/cb39e2385dfcec8a661d01bfacff6b1e33bbaa9d/topics/babel/babel.png" />](https://babeljs.io/)  | [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />](https://sass-lang.com/)  |  [<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />](https://www.gnu.org/software/bash/)  |
-|---|---|---|---|---|---|---|---|---|
+</div>
 
-- Know/Not using
+<br>
 
-| [<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />](https://clang.llvm.org/)  | [<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />](https://isocpp.org/)  | [<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />](https://docs.microsoft.com/en-us/dotnet/csharp/)  | [<img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />](https://www.ruby-lang.org/)  | [<img align="left" alt="Lua" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" />](https://www.lua.org/)  |
-|---|---|---|---|---|
+<h3>What i learn right now</h3>
 
-- Know but ignore
+<div align="center">
+<a href="https://elm-lang.org//">
+<img src="https://www.vectorlogo.zone/logos/elm-lang/elm-lang-icon.svg" alt="ELM" height="45" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.haskell.org/">
+<img src="https://www.vectorlogo.zone/logos/haskell/haskell-icon.svg" alt="Hasekll" height="45" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.rust-lang.org/">
+<img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="Rust" height="45" />
+</a>
+</div>
 
-| [<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />](https://www.php.net/)  | [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />](https://www.java.com/) |
-|---|---|
+<br>
 
-=> __Really i hate Java__
+<h3>Languages I Code 🖥️</h3>
 
-- Learning
+<div align="center">
 
-| [<img align="left" alt="Elm" width="26px" src="https://avatars3.githubusercontent.com/u/20698192?s=200&v=4" />](https://elm-lang.org/)  | [<img align="left" alt="Haskell" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png" />](https://www.haskell.org/)  | [<img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />](https://www.rust-lang.org/)  |
-|---|---|---|
+<a href="https://html.spec.whatwg.org">
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" height="45" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.python.org/">
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" height="45" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/Css">
+<img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg" alt="CSS" height="45" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://golang.org/">
+<img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="Golang" height="45" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="Javascript" height="45" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.typescriptlang.org/">
+<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="Typescript" height="45" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://babeljs.io/">
+<img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="Babel" height="45" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://sass-lang.com/">
+<img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="Sass" height="45" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.gnu.org/software/bash/">
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" height="45" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://clang.llvm.org/">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="Clang" height="45" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://isocpp.org/">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" height="45" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="C#" height="45" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.ruby-lang.org/">
+<img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="Ruby" height="45" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.lua.org/">
+<img src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" alt="Lua" height="45" />
+</a>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.php.net/">
+<img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" height="45" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.arduino.cc/">
+<img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="Arduino" height="45" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://dart.dev/">
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" height="45" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://yaml.org/">
+<img src="https://www.vectorlogo.zone/logos/yaml/yaml-icon.svg" alt="Yaml" height="45" />
+</a>
+</div>
 
-### Frameworks🧰
+<br>
 
-- Know/Using
+<h3>Frameworks 🧰</h3>
 
-| [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](https://reactjs.org/)  | [<img align="left" alt="Svelte" width="26px" src="https://raw.githubusercontent.com/github/explore/42198dc9113595ddd22cc12771bb719c8cf08b67/topics/svelte/svelte.png" />](https://svelte.dev/)  | [<img align="left" alt="Graphql" width="26px" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" />](https://graphql.org/)  | [<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />](https://www.gatsbyjs.org/)  | [<img align="left" alt="TailwindCSS" width="26px" src="https://avatars0.githubusercontent.com/u/30317862?s=200&v=4" />](https://tailwindcss.com/)  | [<img align="left" alt="Nodejs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://nodejs.org/)  | [<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />](https://deno.land/)  |
-|---|---|---|---|---|---|---|
+<div align="center">
+<a href="https://reactjs.org/">
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" height="45" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://svelte.dev/">
+<img src="https://raw.githubusercontent.com/github/explore/42198dc9113595ddd22cc12771bb719c8cf08b67/topics/svelte/svelte.png" alt="Svelte" height="45" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://sapper.svelte.dev/">
+<img src="https://styles.redditmedia.com/t5_u8ynk/styles/communityIcon_s6agobh56o541.png" alt="Sapper" height="45" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://graphql.org/">
+<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" height="45" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://flutter.dev/">
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" height="45" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.gatsbyjs.org/">
+<img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="Gatsby" height="45" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://tailwindcss.com/">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" height="45" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://redux.js.org/">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="Redux" height="45" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://rubyonrails.org/">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" alt="Ruby on Rails" height="45" />
+</a>
+</div>
 
-- Know/Not Using
+<br>
 
-| [<img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />](https://redux.js.org/)  | [<img align="left" alt="Ruby on Rails" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />](https://rubyonrails.org/)  |
-|---|---|
+<h3>Engines 🚀</h3>
 
+<div align="center">
+<a href="https://nodejs.org/">
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="Nodejs" height="45" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://deno.land/">
+<img src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" alt="Deno" height="45" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://godotengine.org/">
+<img src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" alt="GODOT" height="45" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://unity.com/">
+<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" height="45" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.unrealengine.com/">
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a9460970-d270-464e-875b-09d5cb00e07c/d7iaqud-f7f91e59-69f1-40d5-a771-d7ecc336f7f0.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvaS9hOTQ2MDk3MC1kMjcwLTQ2NGUtODc1Yi0wOWQ1Y2IwMGUwN2MvZDdpYXF1ZC1mN2Y5MWU1OS02OWYxLTQwZDUtYTc3MS1kN2VjYzMzNmY3ZjAucG5nIn1dXX0.3n7YY_DkN581_DwjTWskpXtFfW7J61YCKvzm6Kypa1o" alt="Unreal Engine" height="45" />
+</a>
+</div>
 
-### Databases 💾
+<br>
 
-|[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />](https://www.mysql.com/)  | [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />](https://www.mongodb.com/)  | [<img align="left" alt="Postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />](https://www.postgresql.org/)  |
-|---|---|---|
+<h3>Databases 💾</h3>
 
+<div align="center">
+<a href="https://www.mysql.com/">
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL" height="45" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.mongodb.com/">
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongoDB" height="45" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.postgresql.org/">
+<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="PostgreSQL" height="45" />
+</a>
+</div>
 
+<br>
 
-### Tools 🛠️
+<h3>Tools 🛠️</h3>
 
-- Using
-
-| [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://git-scm.com/)  | [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/travis_ci.png" />](https://travis-ci.org/)  | [WSL2](https://docs.microsoft.com/en-US/windows/wsl/wsl2-index)  | [<img align="left" alt="Gulp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png" />](https://gulpjs.com/)  | [<img align="left" alt="Webpack" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />](https://webpack.js.org/)  | [<img align="left" alt="PostCSS" width="26px" src="https://camo.githubusercontent.com/2ec260a9d4d3dcc109be800af0b29a8471ad5967/687474703a2f2f706f73746373732e6769746875622e696f2f706f73746373732f6c6f676f2e737667" />](https://postcss.org/)  | [<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />](https://aws.amazon.com/)  | [<img align="left" alt="Terraform" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" />](https://www.terraform.io/)  | [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />](https://www.docker.com/)  | [<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />](https://kubernetes.io/)  | [<img align="left" alt="Jupyter" width="26px" src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/jupyter_notebook.png" />](https://jupyter.org/)  |
-|---|---|---|---|---|---|---|---|---|---|---|
-
-- Learning
-
-| [<img align="left" alt="Codecov" width="26px" src="https://javascriptair.com/sponsors/codecov.png" />](https://codecov.io/)  | [<img align="left" alt="SentryIO" width="26px" src="https://javascriptair.com/sponsors/sentry.png" />](https://sentry.io/welcome/)  |
-|---|---|
-
+<div align="center">
+<a href="https://git-scm.com/">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="45" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://travis-ci.org/">
+<img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="TravisCI" height="45" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://gulpjs.com/">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png" alt="Git" height="45" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://webpack.js.org/">
+<img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" height="45" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://postcss.org/">
+<img src="https://www.vectorlogo.zone/logos/postcss/postcss-icon.svg" alt="PostCSS" height="45" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://aws.amazon.com/">
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" height="45" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.terraform.io/">
+<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" height="45" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.cloudflare.com/">
+<img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="Cloudflare" height="45" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.docker.com/">
+<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" height="45" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://kubernetes.io/">
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" height="45" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://jupyter.org/">
+<img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter" height="45" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://sentry.io/welcome/">
+<img src="https://www.vectorlogo.zone/logos/sentryio/sentryio-icon.svg" alt="Sentry" height="45" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://codecov.io/">
+<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/codecov.svg" alt="Sentry" height="45" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://prometheus.io/">
+<img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" height="45" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://grafana.com/">
+<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" height="45" />
+</a>
+</div>
 
