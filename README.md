@@ -17,6 +17,7 @@ I'm Daniel from Germany, also known as Madd Eye in the internet 🌐. I love to 
 <br>
 
 <h3>What i learn right now</h3>
+<h5>(On hold right now)</h5>
 
 <div align="center">
 <a href="https://elm-lang.org//">
