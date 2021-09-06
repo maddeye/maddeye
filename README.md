@@ -17,7 +17,6 @@ I'm Daniel from Germany, also known as Madd Eye in the internet 🌐. I love to 
 <br>
 
 <h3>What i learn right now</h3>
-<h5>(On hold right now)</h5>
 
 <div align="center">
 <a href="https://elm-lang.org//">
@@ -39,7 +38,10 @@ I'm Daniel from Germany, also known as Madd Eye in the internet 🌐. I love to 
 
 <div align="center">
 
-<a href="https://html.spec.whatwg.org">
+<a href="https://www.rust-lang.org/">
+<img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="Rust" height="45" />
+</a> 
+ <a href="https://html.spec.whatwg.org">
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" height="45" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
