@@ -41,6 +41,7 @@ I'm Daniel from Germany, also known as Madd Eye in the internet 🌐. I love to 
 <a href="https://www.rust-lang.org/">
 <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="Rust" height="45" />
 </a> 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://html.spec.whatwg.org">
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" height="45" />
 </a>
