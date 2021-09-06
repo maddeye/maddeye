@@ -26,10 +26,6 @@ I'm Daniel from Germany, also known as Madd Eye in the internet 🌐. I love to 
 <a href="https://www.haskell.org/">
 <img src="https://www.vectorlogo.zone/logos/haskell/haskell-icon.svg" alt="Hasekll" height="45" />
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.rust-lang.org/">
-<img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="Rust" height="45" />
-</a>
 </div>
 
 <br>
