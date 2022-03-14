@@ -16,20 +16,6 @@ I'm Daniel from Germany, also known as Madd Eye in the internet 🌐. I love to 
 
 <br>
 
-<h3>What i learn right now</h3>
-
-<div align="center">
-<a href="https://elm-lang.org//">
-<img src="https://www.vectorlogo.zone/logos/elm-lang/elm-lang-icon.svg" alt="ELM" height="45" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.haskell.org/">
-<img src="https://www.vectorlogo.zone/logos/haskell/haskell-icon.svg" alt="Hasekll" height="45" />
-</a>
-</div>
-
-<br>
-
 <h3>Languages I Code 🖥️</h3>
 
 <div align="center">
